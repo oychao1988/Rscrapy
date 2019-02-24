@@ -1,0 +1,6 @@
+*.json
+__pycache__/
+*.log
+*.cfg
+*.rdb
+
